@@ -1,5 +1,6 @@
 # Nutrition_Analysis_Data-Analytics 📊
 A data analysis project using **Python, Pandas, Matplotlib, and Seaborn** to explore and visualize nutrition-related data and primary benefits.
+Dashboard is created using Power BI.
 
 ## 📝 Project Overview
 This project focuses on analyzing nutrition datasets to extract meaningful insights such as:
@@ -8,7 +9,12 @@ This project focuses on analyzing nutrition datasets to extract meaningful insig
 2. Which gender have more benefits of nutrition in weight gain and strength gain.
 3. Which age group people have more benefit of Nutrition.
 
-## Requirements
+## 🗃️ Power BI Dashboard
+
+<img width="4150" height="2400" alt="dashboard_page-01" src="https://github.com/user-attachments/assets/f81ed21b-6879-4dec-b020-167cc2bf8872" />
+
+
+## 🛠️ Requirements
 - Python
 - Pandas
 - Matplotlib
